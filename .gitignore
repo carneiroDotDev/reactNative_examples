@@ -63,3 +63,4 @@ typings/
 
 MyProject/
 package-lock.json
+.DS_store
